@@ -1,2 +1,3 @@
 # metacritic-music-comments-crawling
-爬取Metacritic网站不同音乐类型的用户评论
+利用python的selenium库，爬取Metacritic网站不同音乐类型的用户评论
+代码利用函数嵌套的方式进行，先爬取不同风格的网站，再爬取同一风格下的不同歌曲，再爬取同一歌曲下的用户评论。
